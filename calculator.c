@@ -34,5 +34,7 @@ int main() {
         printf("Error **input a valid value**");
     }
 
+    scanf("");
+
     return 0;
 }
